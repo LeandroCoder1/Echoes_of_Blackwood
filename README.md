@@ -8,6 +8,9 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1B-35Y-WMd_sD19S1Rql8uvRd8j2CR7aC
 
+## Promt
+`Build a dynamic text adventure game using Gemini and ImagenCreate a realistic medieval village environment, with a third-person player character exploring and fighting enemies in a dark, atmospheric souls-like style. The scene should include cobblestone streets, wooden houses with thatched roofs, medieval market stalls, torches illuminating the night, and a sense of mystery and danger. The player should be wearing rugged medieval armor, wielding a sword, and facing hostile enemies inspired by souls-like aesthetics — dark, intimidating, and challenging. The overall atmosphere should feel gritty, immersive, and cinematic.`
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
